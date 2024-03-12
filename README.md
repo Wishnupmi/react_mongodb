@@ -1,4 +1,7 @@
-# My App
+# Koneksi React js dengan menggunakan framework7 dan Database Mongodb
+Berikut ini tampilan hasil compile :
+
+![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/react_f7.png)
 
 ## Framework7 CLI Options
 
