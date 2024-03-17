@@ -3,6 +3,12 @@ Berikut ini tampilan hasil compile :
 
 ![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/react_f7.png)
 
+# Tampilan Mongodb Compass
+
+![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/mongodb1.png)
+
+![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/mongodb2.png)
+
 ## Framework7 CLI Options
 
 Framework7 app created with following options:
