@@ -9,6 +9,10 @@ Berikut ini tampilan hasil compile :
 
 ![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/mongodb2.png)
 
+# Start api node js mongodb
+
+![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/start_api_nodejs.png)
+
 # Akses API Mongodb Compass
 
 ![alt text](https://github.com/Wishnupmi/react_mongodb/blob/main/akses_api_mongodb.png)
